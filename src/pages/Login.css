@@ -1,0 +1,9 @@
+section {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(1, 11, 26);
+}
+
+.login__logo {
+  height: 18rem;
+}
